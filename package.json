@@ -1,0 +1,14 @@
+{
+  "author": "UMIG Team",
+  "name": "umig.org",
+  "description": "The Unique Musical Instrument Gallery",
+  "version": "0.0.1",
+  "homepage": "http://umig.org/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/umig/umig.org.git"
+  },
+  "main": "build/server",
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
